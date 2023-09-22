@@ -1,2 +1,4 @@
 b1
 new file
+edit on rebase test
+
