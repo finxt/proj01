@@ -4,5 +4,5 @@ b main
 c main
 d main
 d conflict_test2
-e
+e conflict_test2
 f
