@@ -3,5 +3,6 @@ b conflict_test
 b main
 c main
 d main
+d conflict_test2
 e
 f
