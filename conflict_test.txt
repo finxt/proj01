@@ -2,6 +2,6 @@ a
 b conflict_test
 b main
 c main
-d
+d main
 e
 f
