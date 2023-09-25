@@ -1,7 +1,7 @@
 a
 b conflict_test
 b main
-c
+c main
 d
 e
 f
