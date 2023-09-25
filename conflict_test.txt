@@ -1,5 +1,6 @@
 a
 b conflict_test
+b main
 c
 d
 e
