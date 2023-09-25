@@ -1,7 +1,6 @@
 a
-b
+b conflict_test
 c
 d
 e
 f
-
